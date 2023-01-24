@@ -1,0 +1,2 @@
+git kursuna hoş buldum. ilk defa bunu yapıyorum.
+git add . (yazınca bütün hepsini ekliyor)
